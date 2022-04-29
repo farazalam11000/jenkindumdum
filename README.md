@@ -1,2 +1,2 @@
 # jenkindumdum
-jenkins dummy repo
+jenkins dummy repo for Devops Lab exam
