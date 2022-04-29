@@ -1,8 +1,12 @@
-pipeline{
+pipeline
+{
   agent any
-  stages{
-    stage('Build'){
-      steps{
+  stages
+  {
+    stage('Build')
+    {
+      steps
+      {
         echo 'running Tests'
         bat 'python test.py'
       }
